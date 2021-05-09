@@ -1,0 +1,8 @@
+
+httpd-2.4.46
+apr-1.7.0
+apr-util-1.6.1
+java-1.8.0_291
+apache-tomcat-10.0.5
+tomcat-connectors-1.2.48
+modsecurity-2.9.3
